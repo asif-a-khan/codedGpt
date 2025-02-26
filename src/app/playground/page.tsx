@@ -48,7 +48,7 @@ const Home = () => {
   return (
     <div className="z-10 flex h-screen flex-col gap-5 p-5">
       <header className="flex items-center justify-between border-b px-6 py-3">
-        <h1 className="text-xl font-bold">Flamingo ChatBot</h1>
+        <h1 className="text-xl font-bold">Coded Gpt</h1>
         <div className="flex items-center gap-3">
           <Link
             href="https://github.com/gungho0619/next.js-chatgpt"
